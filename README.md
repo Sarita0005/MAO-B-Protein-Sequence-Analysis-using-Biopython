@@ -48,6 +48,8 @@ The analysis focuses on sequence parsing, CDS extraction, protein translation, a
 - Molecular weight: ~58.7 kDa
 - Isoelectric point (pI): ~7.2
 - Mixed hydrophobic and hydrophilic regions consistent with enzymatic proteins
+## MAOB_amino_acid_composition
+results/MAOB_amino_acid_composition.csv
 
 ---
 
