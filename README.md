@@ -48,8 +48,24 @@ The analysis focuses on sequence parsing, CDS extraction, protein translation, a
 - Molecular weight: ~58.7 kDa
 - Isoelectric point (pI): ~7.2
 - Mixed hydrophobic and hydrophilic regions consistent with enzymatic proteins
-## MAOB_amino_acid_composition
-results/MAOB_amino_acid_composition.csv
+## Results
+
+### Amino Acid Counts
+![Amino Acid Counts](results/MAOB_amino_acid_counts.png)
+
+### Amino Acid Percentages
+![Amino Acid Percentages](results/MAOB_amino_acid_percentages.png)
+
+### Hydrophobic vs Hydrophilic Residues
+![Hydrophobic vs Hydrophilic](results/MAOB_hydrophobic_vs_hydrophilic.png)
+
+### Kyte–Doolittle Hydrophobicity Plot
+![Kyte-Doolittle Plot](results/MAOB_kyte_doolittle.png)
+
+### Data Files
+- [Amino Acid Composition (CSV)](results/MAOB_amino_acid_composition.csv)
+- [Hydrophobicity Summary (CSV)](results/MAOB_hydrophobicity_summary.csv)
+- [Amino Acid Composition — Full (CSV)](results/aa_composition.csv)
 
 ---
 
